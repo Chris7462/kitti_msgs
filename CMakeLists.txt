@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.20)
-project(kitti_msgs)
+project(av_msgs)
 
 # find dependencies
 find_package(ament_cmake REQUIRED)
